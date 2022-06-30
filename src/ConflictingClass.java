@@ -8,4 +8,8 @@ public class ConflictingClass {
         System.out.println("y");
     }
 
+    void z() {
+        System.out.println("z");
+    }
+
 }
