@@ -11,9 +11,8 @@ public class ConflictingClass {
     }
     
     void z() {
-        for (int i = 0; i != 5; i++) {
-            System.out.println(i);
-        }
+        char z = 'z';
+        System.out.println("z");
     }
 
 }
