@@ -1,7 +1,7 @@
 public class ConflictingClass {
 
     void x() {
-        char x = 'x';
+        int x = 88;
         System.out.println("x");
     }
 
@@ -9,7 +9,7 @@ public class ConflictingClass {
         char y = 'y';
         System.out.println("y");
     }
-
+    
     void z() {
         char z = 'z';
         System.out.println("z");
